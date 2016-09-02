@@ -1,1 +1,1 @@
-# vimrc
+# pynxl-vimrc
